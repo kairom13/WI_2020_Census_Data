@@ -1,0 +1,22 @@
+﻿GEOID,GEOCODE,STATE,AIANHH,AIHHTLI,AIANHHFP,AIANHHCC,AIANHHNS,AITS,AITSFP,AITSCC,AITSNS,CD116,AREALAND,AREAWATR,BASENAME,NAME,POP100
+5501600US55021450,55021450,55,1450,M,35168,D1,2418963,,,,,2,6596257,72893,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),296
+5501600US55031450,55031450,55,1450,M,35168,D1,2418963,,,,,3,23234969,169872,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),996
+5501600US55041135,55041135,55,1135,M,26557,D1,2418936,,,,,4,85405,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),6
+5501600US55061135,55061135,55,1135,M,26557,D1,2418936,,,,,6,327894,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),1
+5501600US55070140,55070140,55,140,R,4225,D2,1577209,,,,,7,500160677,10301346,Bad River,Bad River Reservation,1545
+5501600US55071125,55071125,55,1125,M,26310,D1,654521,,,,,7,1404361,13353,Fond du Lac,Fond du Lac Reservation and Off-Reservation Trust Land (part),4
+5501600US55071135,55071135,55,1135,M,26557,D1,2418936,,,,,7,57760820,183387,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),587
+5501600US55071450,55071450,55,1450,M,35168,D1,2418963,,,,,7,6975470,1218,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),190
+5501600US55071815,55071815,55,1815,M,40650,D1,1577192,,,,,7,280640224,41415521,Lac Courte Oreilles,Lac Courte Oreilles Reservation and Off-Reservation Trust Land,2968
+5501600US55071825,55071825,55,1825,R,40725,D2,1580845,,,,,7,277303837,73007138,Lac du Flambeau,Lac du Flambeau Reservation,3518
+5501600US55073085,55073085,55,3085,M,66600,D1,1577204,,,,,7,58995655,351028,Red Cliff,Red Cliff Reservation and Off-Reservation Trust Land,1403
+5501600US55073305,55073305,55,3305,M,70642,D1,1843172,,,,,7,9599391,260364,St. Croix,St. Croix Reservation and Off-Reservation Trust Land,765
+5501600US55073885,55073885,55,3885,M,74540,D1,1577206,,,,,7,13213026,913467,Sokaogon Chippewa,Sokaogon Chippewa Community and Off-Reservation Trust Land,507
+5501600US55081135,55081135,55,1135,M,26557,D1,2418936,,,,,8,482904,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),0
+5501600US55081450,55081450,55,1450,M,35168,D1,2418963,,,,,8,3223865,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),95
+5501600US55082175,55082175,55,2175,M,50985,D1,1831784,,,,,8,920594895,19021729,Menominee,Menominee Reservation and Off-Reservation Trust Land,3293
+5501600US55082560,55082560,55,2560,M,60025,D1,1577191,,,,,8,265878367,332210,Oneida (WI),Oneida (WI) Reservation and Off-Reservation Trust Land,27110
+5501600US55084015,55084015,55,4015,M,77450,D1,1577203,,,,,8,70451395,123007,Stockbridge Munsee,Stockbridge Munsee Community and Off-Reservation Trust Land,733
+5531600US55082175500,55082175500,55,2175,M,50985,D1,1831784,500,72180,D7,2419134,8,133932,0,Schoolview Addition,Schoolview Addition,242
+5531600US55082175600,55082175600,55,2175,M,50985,D1,1831784,600,83487,D7,2419515,8,241333,0,Warrington Addition,Warrington Addition,252
+5531600US55082175999,55082175999,55,2175,M,50985,D1,1831784,999,99999,99,99999999,8,920219630,19021729,Remainder of Menominee,Remainder of Menominee Reservation and Off-Reservation Trust Land,2799
