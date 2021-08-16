@@ -8,3 +8,6 @@ Census data from the Census Bureau can be hard to get in clean formats. This rep
 - WI_census_blocks.csv contains the populations of each Census Block as well which geography that block is in
 - WI_census_data_dict.csv is the dictionary for each field name in orginial file. 
 - WI_census_districts.csv contains the populations for each legislative district as well as the population deviation from average
+
+## Source
+The original data set, as well as other data files and data for other states, can be found here: https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/Wisconsin/
