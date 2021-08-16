@@ -1,30 +1,34 @@
-﻿GEOID,GEOCODE,STATE,SLDU18,AREALAND,AREAWATR,BASENAME,NAME,POP100
-616U600US550021450,550021450,55,2,1535413,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),22
-616U600US550022175,550022175,55,2,5072834,4848,Menominee,Menominee Reservation and Off-Reservation Trust Land (part),261
-616U600US550022560,550022560,55,2,265878367,332210,Oneida (WI),Oneida (WI) Reservation and Off-Reservation Trust Land,27110
-616U600US550024015,550024015,55,2,70451395,123007,Stockbridge Munsee,Stockbridge Munsee Community and Off-Reservation Trust Land,733
-616U600US550031135,550031135,55,3,34384,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),0
-616U600US550061135,550061135,55,6,51021,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),6
-616U600US550103305,550103305,55,10,1562350,64374,St. Croix,St. Croix Reservation and Off-Reservation Trust Land (part),110
-616U600US550121135,550121135,55,12,58243724,183387,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),587
-616U600US550121450,550121450,55,12,1688452,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),73
-616U600US550121825,550121825,55,12,3450649,1286199,Lac du Flambeau,Lac du Flambeau Reservation (part),54
-616U600US550122175,550122175,55,12,915522061,19016881,Menominee,Menominee Reservation and Off-Reservation Trust Land (part),3032
-616U600US550123885,550123885,55,12,13213026,913467,Sokaogon Chippewa,Sokaogon Chippewa Community and Off-Reservation Trust Land,507
-616U600US550141450,550141450,55,14,1341,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),0
-616U600US550161450,550161450,55,16,17813,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),0
-616U600US550171450,550171450,55,17,2028305,71483,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),275
-616U600US550201135,550201135,55,20,327894,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),1
-616U600US550231450,550231450,55,23,4457587,346,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),22
-616U600US550241450,550241450,55,24,6517300,872,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),333
-616U600US550250140,550250140,55,25,500160677,10301346,Bad River,Bad River Reservation,1545
-616U600US550251125,550251125,55,25,1404361,13353,Fond du Lac,Fond du Lac Reservation and Off-Reservation Trust Land (part),4
-616U600US550251815,550251815,55,25,687462,56225,Lac Courte Oreilles,Lac Courte Oreilles Reservation and Off-Reservation Trust Land (part),3
-616U600US550251825,550251825,55,25,273853188,71720939,Lac du Flambeau,Lac du Flambeau Reservation (part),3464
-616U600US550253085,550253085,55,25,58995655,351028,Red Cliff,Red Cliff Reservation and Off-Reservation Trust Land,1403
-616U600US550253305,550253305,55,25,8037041,195990,St. Croix,St. Croix Reservation and Off-Reservation Trust Land (part),655
-616U600US550271450,550271450,55,27,6435761,72893,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),184
-616U600US550291450,550291450,55,29,800098,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),9
-616U600US550291815,550291815,55,29,279952762,41359296,Lac Courte Oreilles,Lac Courte Oreilles Reservation and Off-Reservation Trust Land (part),2965
-616U600US550311450,550311450,55,31,8784387,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),642
-616U600US550321450,550321450,55,32,7764104,98389,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),17
+﻿GEOID,GEOCODE,STATE,AIANHH,AIHHTLI,AIANHHFP,AIANHHCC,AIANHHNS,AITS,AITSFP,AITSCC,AITSNS,SLDU18,AREALAND,AREAWATR,BASENAME,NAME,POP100
+616U600US550021450,550021450,55,1450,M,35168,D1,2418963,,,,,2,1535413,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),22
+616U600US550022175,550022175,55,2175,M,50985,D1,1831784,,,,,2,5072834,4848,Menominee,Menominee Reservation and Off-Reservation Trust Land (part),261
+616U600US550022560,550022560,55,2560,M,60025,D1,1577191,,,,,2,265878367,332210,Oneida (WI),Oneida (WI) Reservation and Off-Reservation Trust Land,27110
+616U600US550024015,550024015,55,4015,M,77450,D1,1577203,,,,,2,70451395,123007,Stockbridge Munsee,Stockbridge Munsee Community and Off-Reservation Trust Land,733
+616U600US550031135,550031135,55,1135,M,26557,D1,2418936,,,,,3,34384,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),0
+616U600US550061135,550061135,55,1135,M,26557,D1,2418936,,,,,6,51021,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),6
+616U600US550103305,550103305,55,3305,M,70642,D1,1843172,,,,,10,1562350,64374,St. Croix,St. Croix Reservation and Off-Reservation Trust Land (part),110
+616U600US550121135,550121135,55,1135,M,26557,D1,2418936,,,,,12,58243724,183387,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),587
+616U600US550121450,550121450,55,1450,M,35168,D1,2418963,,,,,12,1688452,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),73
+616U600US550121825,550121825,55,1825,R,40725,D2,1580845,,,,,12,3450649,1286199,Lac du Flambeau,Lac du Flambeau Reservation (part),54
+616U600US550122175,550122175,55,2175,M,50985,D1,1831784,,,,,12,915522061,19016881,Menominee,Menominee Reservation and Off-Reservation Trust Land (part),3032
+616U600US550123885,550123885,55,3885,M,74540,D1,1577206,,,,,12,13213026,913467,Sokaogon Chippewa,Sokaogon Chippewa Community and Off-Reservation Trust Land,507
+616U600US550141450,550141450,55,1450,M,35168,D1,2418963,,,,,14,1341,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),0
+616U600US550161450,550161450,55,1450,M,35168,D1,2418963,,,,,16,17813,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),0
+616U600US550171450,550171450,55,1450,M,35168,D1,2418963,,,,,17,2028305,71483,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),275
+616U600US550201135,550201135,55,1135,M,26557,D1,2418936,,,,,20,327894,0,Forest County Potawatomi,Forest County Potawatomi Community and Off-Reservation Trust Land (part),1
+616U600US550231450,550231450,55,1450,M,35168,D1,2418963,,,,,23,4457587,346,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),22
+616U600US550241450,550241450,55,1450,M,35168,D1,2418963,,,,,24,6517300,872,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),333
+616U600US550250140,550250140,55,140,R,4225,D2,1577209,,,,,25,500160677,10301346,Bad River,Bad River Reservation,1545
+616U600US550251125,550251125,55,1125,M,26310,D1,654521,,,,,25,1404361,13353,Fond du Lac,Fond du Lac Reservation and Off-Reservation Trust Land (part),4
+616U600US550251815,550251815,55,1815,M,40650,D1,1577192,,,,,25,687462,56225,Lac Courte Oreilles,Lac Courte Oreilles Reservation and Off-Reservation Trust Land (part),3
+616U600US550251825,550251825,55,1825,R,40725,D2,1580845,,,,,25,273853188,71720939,Lac du Flambeau,Lac du Flambeau Reservation (part),3464
+616U600US550253085,550253085,55,3085,M,66600,D1,1577204,,,,,25,58995655,351028,Red Cliff,Red Cliff Reservation and Off-Reservation Trust Land,1403
+616U600US550253305,550253305,55,3305,M,70642,D1,1843172,,,,,25,8037041,195990,St. Croix,St. Croix Reservation and Off-Reservation Trust Land (part),655
+616U600US550271450,550271450,55,1450,M,35168,D1,2418963,,,,,27,6435761,72893,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),184
+616U600US550291450,550291450,55,1450,M,35168,D1,2418963,,,,,29,800098,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),9
+616U600US550291815,550291815,55,1815,M,40650,D1,1577192,,,,,29,279952762,41359296,Lac Courte Oreilles,Lac Courte Oreilles Reservation and Off-Reservation Trust Land (part),2965
+616U600US550311450,550311450,55,1450,M,35168,D1,2418963,,,,,31,8784387,0,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),642
+616U600US550321450,550321450,55,1450,M,35168,D1,2418963,,,,,32,7764104,98389,Ho-Chunk Nation,Ho-Chunk Nation Reservation and Off-Reservation Trust Land (part),17
+633U600US550022175999,5.50022E+11,55,2175,M,50985,D1,1831784,999,99999,99,99999999,2,5072834,4848,Remainder of Menominee,Remainder of Menominee Reservation and Off-Reservation Trust Land (part),261
+633U600US550122175500,5.50122E+11,55,2175,M,50985,D1,1831784,500,72180,D7,2419134,12,133932,0,Schoolview,Schoolview Addition,242
+633U600US550122175600,5.50122E+11,55,2175,M,50985,D1,1831784,600,83487,D7,2419515,12,241333,0,Warrington,Warrington Addition,252
+633U600US550122175999,5.50122E+11,55,2175,M,50985,D1,1831784,999,99999,99,99999999,12,915146796,19016881,Remainder of Menominee,Remainder of Menominee Reservation and Off-Reservation Trust Land (part),2538
