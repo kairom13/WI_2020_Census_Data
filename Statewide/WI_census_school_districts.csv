@@ -1,0 +1,426 @@
+﻿GEOID,GEOCODE,STATE,SDELM,SDSEC,SDUNI,AREALAND,AREAWATR,BASENAME,NAME,POP100
+9500000US5500013,5500013,55,13,,,22445796,3797501,Lake Country School District,Lake Country School District,4401
+9500000US5500052,5500052,55,52,,,26299929,2369563,Trevor-Wilmot Consolidated School District,Trevor-Wilmot Consolidated School District,3859
+9500000US5500075,5500075,55,75,,,210014307,1594825,Herman-Neosho-Rubicon School District,Herman-Neosho-Rubicon School District,4772
+9500000US5500080,5500080,55,80,,,64493373,1034488,Holy Hill Area School District,Holy Hill Area School District,6926
+9500000US5501530,5501530,55,1530,,,557816056,132417188,North Lakeland School District,North Lakeland School District,3044
+9500000US5501650,5501650,55,1650,,,86854456,505856,Brighton No. 1 School District,Brighton No. 1 School District,1291
+9500000US5501710,5501710,55,1710,,,86970017,627167,Bristol No. 1 School District,Bristol No. 1 School District,5963
+9500000US5503750,5503750,55,3750,,,28712859,57787,Dover No. 1 School District,Dover No. 1 School District,1943
+9500000US5504410,5504410,55,4410,,,59503107,861745,Erin School District,Erin School District,2519
+9500000US5504620,5504620,55,4620,,,256708439,73941941,Lac du Flambeau No. 1 School District,Lac du Flambeau No. 1 School District,3552
+9500000US5504720,5504720,55,4720,,,28043557,998410,Fontana Joint No. 8 School District,Fontana Joint No. 8 School District,3962
+9500000US5504770,5504770,55,4770,,,13566308,452589,Maple Dale-Indian Hill School District,Maple Dale-Indian Hill School District,1784
+9500000US5504800,5504800,55,4800,,,13362886,0,Fox Point Joint No. 2 School District,Fox Point Joint No. 2 School District,11312
+9500000US5505100,5505100,55,5100,,,10571483,0,Geneva Joint No. 4 School District,Geneva Joint No. 4 School District,1105
+9500000US5505130,5505130,55,5130,,,46535679,898563,Genoa City Joint No. 2 School District,Genoa City Joint No. 2 School District,5068
+9500000US5505460,5505460,55,5460,,,14716640,519005,Glendale-River Hills School District,Glendale-River Hills School District,13175
+9500000US5506090,5506090,55,6090,,,129495908,2231178,Hartford Joint No. 1 School District,Hartford Joint No. 1 School District,19001
+9500000US5506140,5506140,55,6140,,,21892496,1821977,Hartland-Lakeside Joint No. 3 School District,Hartland-Lakeside Joint No. 3 School District,11740
+9500000US5507620,5507620,55,7620,,,136227056,1679737,Lake Geneva Joint No. 1 School District,Lake Geneva Joint No. 1 School District,18339
+9500000US5508040,5508040,55,8040,,,36472524,39134,Linn Joint No. 4 School District,Linn Joint No. 4 School District,1003
+9500000US5508070,5508070,55,8070,,,41137157,2397,Linn Joint No. 6 School District,Linn Joint No. 6 School District,1295
+9500000US5508130,5508130,55,8130,,,17132053,63562,Richmond School District,Richmond School District,2986
+9500000US5509240,5509240,55,9240,,,12279269,2572423,Swallow School District,Swallow School District,3198
+9500000US5509300,5509300,55,9300,,,31435734,1310267,North Lake School District,North Lake School District,2702
+9500000US5509360,5509360,55,9360,,,32755748,1433247,Merton Community School District,Merton Community School District,6776
+9500000US5509390,5509390,55,9390,,,22854173,3358923,Stone Bank School District,Stone Bank School District,2710
+9500000US5509690,5509690,55,9690,,,554825199,73914356,Minocqua Joint No. 1 School District,Minocqua Joint No. 1 School District,7516
+9500000US5510800,5510800,55,10800,,,21058068,32878,Norway Joint No. 7 School District,Norway Joint No. 7 School District,839
+9500000US5511400,5511400,55,11400,,,92980403,6123,Paris Joint No. 1 School District,Paris Joint No. 1 School District,1668
+9500000US5512390,5512390,55,12390,,,42881698,1697455,Randall Joint No. 1 School District,Randall Joint No. 1 School District,5683
+9500000US5512480,5512480,55,12480,,,80655156,340856,Raymond No. 14 School District,Raymond No. 14 School District,3389
+9500000US5512510,5512510,55,12510,,,53146842,153504,North Cape School District,North Cape School District,1918
+9500000US5513350,5513350,55,13350,,,44379686,2570882,Salem School District,Salem School District,9482
+9500000US5513560,5513560,55,13560,,,51136895,0,Sharon Joint No. 11 School District,Sharon Joint No. 11 School District,1975
+9500000US5513860,5513860,55,13860,,,10239310,2920956,Silver Lake Joint No. 1 School District,Silver Lake Joint No. 1 School District,4000
+9500000US5515090,5515090,55,15090,,,6755705,4064458,Twin Lakes No. 4 School District,Twin Lakes No. 4 School District,3708
+9500000US5515180,5515180,55,15180,,,25277969,33319,Union Grove Joint No. 1 School District,Union Grove Joint No. 1 School District,5269
+9500000US5515450,5515450,55,15450,,,69894569,146130,Walworth Joint No. 1 School District,Walworth Joint No. 1 School District,3850
+9500000US5515660,5515660,55,15660,,,120608186,5364001,Waterford Joint No. 1 School District,Waterford Joint No. 1 School District,14230
+9500000US5515700,5515700,55,15700,,,22214322,1064357,Washington-Caldwell School District,Washington-Caldwell School District,1934
+9500000US5516560,5516560,55,16560,,,80354299,1282272,Wheatland Joint No. 1 School District,Wheatland Joint No. 1 School District,4168
+9500000US5517160,5517160,55,17160,,,231954778,43853722,Woodruff Joint No. 1 School District,Woodruff Joint No. 1 School District,5447
+9500000US5517220,5517220,55,17220,,,76907328,276224,Yorkville Joint No. 2 School District,Yorkville Joint No. 2 School District,2963
+9500000US5599999,5599999,55,99999,,,1.36699E+11,28971410684,Wisconsin,Remainder of Wisconsin,5671253
+9600000US5505490,5505490,55,,5490,,41645834,971594,Nicolet Union High School District,Nicolet Union High School District,26271
+9600000US5506120,5506120,55,,6120,,463506695,5722236,Hartford Union High School District,Hartford Union High School District,33218
+9600000US5506180,5506180,55,,6180,,160795269,14357900,Arrowhead Union High School District,Arrowhead Union High School District,34513
+9600000US5507650,5507650,55,,7650,,229806742,2617434,Lake Geneva-Genoa City Union High School District,Lake Geneva-Genoa City Union High School District,25515
+9600000US5509630,5509630,55,,9630,,1601304472,324127207,Lakeland Union High School District,Lakeland Union High School District,19559
+9600000US5513290,5513290,55,,13290,,359623093,4320361,Westosha Central High School District,Westosha Central High School District,20801
+9600000US5515150,5515150,55,,15150,,216412853,708186,Union Grove Union High School District,Union Grove Union High School District,13616
+9600000US5515480,5515480,55,,15480,,190212178,1146937,Big Foot Union High School District,Big Foot Union High School District,11082
+9600000US5515600,5515600,55,,15600,,217027418,6614740,Waterford Union High School District,Waterford Union High School District,18921
+9600000US5516770,5516770,55,,16770,,113232869,11724371,Wilmot Union High School District,Wilmot Union High School District,18969
+9600000US5599999,5599999,55,,99999,,1.36699E+11,28971410684,Wisconsin,Remainder of Wisconsin,5671253
+9700000US5500016,5500016,55,,,16,461495559,325617,Blair-Taylor School District,Blair-Taylor School District,4345
+9700000US5500017,5500017,55,,,17,544263766,21463871,River Ridge School District,River Ridge School District,3479
+9700000US5500030,5500030,55,,,30,107516703,81812,Abbotsford School District,Abbotsford School District,3683
+9700000US5500056,5500056,55,,,56,139757061,2612136,Gresham School District,Gresham School District,1705
+9700000US5500058,5500058,55,,,58,1823174818,85806914,Chequamegon School District,Chequamegon School District,6456
+9700000US5500060,5500060,55,,,60,1186771312,79233997,Adams-Friendship Area School District,Adams-Friendship Area School District,13924
+9700000US5500061,5500061,55,,,61,633961383,26820439,Chetek-Weyerhaeuser Area School District,Chetek-Weyerhaeuser Area School District,8344
+9700000US5500120,5500120,55,,,120,183197723,328309,Albany School District,Albany School District,3146
+9700000US5500150,5500150,55,,,150,175921321,807170,Algoma School District,Algoma School District,5138
+9700000US5500180,5500180,55,,,180,321484053,33011847,Alma School District,Alma School District,1508
+9700000US5500210,5500210,55,,,210,359206172,847352,Alma Center School District,Alma Center School District,2943
+9700000US5500240,5500240,55,,,240,282619548,1871713,Almond-Bancroft School District,Almond-Bancroft School District,2504
+9700000US5500270,5500270,55,,,270,34738267,3560036,Altoona School District,Altoona School District,10401
+9700000US5500300,5500300,55,,,300,398760194,21076512,Amery School District,Amery School District,9811
+9700000US5500330,5500330,55,,,330,254230982,4160934,Tomorrow River School District,Tomorrow River School District,5102
+9700000US5500360,5500360,55,,,360,1393679242,8421659,Antigo School District,Antigo School District,17143
+9700000US5500390,5500390,55,,,390,113844093,1761971,Appleton Area School District,Appleton Area School District,100970
+9700000US5500420,5500420,55,,,420,522901961,799656,Arcadia School District,Arcadia School District,6387
+9700000US5500450,5500450,55,,,450,214392704,178282,Argyle School District,Argyle School District,1847
+9700000US5500510,5500510,55,,,510,1054909012,12159714,Ashland School District,Ashland School District,13161
+9700000US5500540,5500540,55,,,540,27153643,1284962,Ashwaubenon School District,Ashwaubenon School District,15360
+9700000US5500570,5500570,55,,,570,332221894,24545,Athens School District,Athens School District,3702
+9700000US5500600,5500600,55,,,600,394479327,4156730,Auburndale School District,Auburndale School District,4543
+9700000US5500630,5500630,55,,,630,417812041,5052625,Augusta School District,Augusta School District,4721
+9700000US5500720,5500720,55,,,720,300450895,760841,Baldwin-Woodville Area School District,Baldwin-Woodville Area School District,9485
+9700000US5500750,5500750,55,,,750,351682689,30143121,Unity School District,Unity School District,7286
+9700000US5500780,5500780,55,,,780,238560383,3689,Bangor School District,Bangor School District,3957
+9700000US5500810,5500810,55,,,810,402302784,9346408,Baraboo School District,Baraboo School District,21169
+9700000US5500840,5500840,55,,,840,174946798,63154,Barneveld School District,Barneveld School District,2397
+9700000US5500870,5500870,55,,,870,466377285,1161392,Barron Area School District,Barron Area School District,8933
+9700000US5500900,5500900,55,,,900,420752201,789405,Bayfield School District,Bayfield School District,3351
+9700000US5500960,5500960,55,,,960,284539931,600965,Beaver Dam School District,Beaver Dam School District,23100
+9700000US5500990,5500990,55,,,990,184176084,1091778,Belleville School District,Belleville School District,5586
+9700000US5501020,5501020,55,,,1020,263438840,300026,Belmont Community School District,Belmont Community School District,2212
+9700000US5501050,5501050,55,,,1050,40952034,862170,Beloit School District,Beloit School District,36135
+9700000US5501080,5501080,55,,,1080,80645923,1850645,Beloit Turner School District,Beloit Turner School District,9187
+9700000US5501110,5501110,55,,,1110,83379367,0,Benton School District,Benton School District,1519
+9700000US5501140,5501140,55,,,1140,513841584,20259158,Berlin Area School District,Berlin Area School District,10428
+9700000US5501170,5501170,55,,,1170,561452084,40548172,Birchwood School District,Birchwood School District,2340
+9700000US5501230,5501230,55,,,1230,267454062,1836077,Wisconsin Heights School District,Wisconsin Heights School District,6270
+9700000US5501260,5501260,55,,,1260,1171333683,14238002,Black River Falls School District,Black River Falls School District,12615
+9700000US5501310,5501310,55,,,1310,294958539,72991,Pecatonica Area School District,Pecatonica Area School District,2827
+9700000US5501350,5501350,55,,,1350,426317381,5925602,Bloomer School District,Bloomer School District,7523
+9700000US5501470,5501470,55,,,1470,388775919,6074973,Bonduel School District,Bonduel School District,6305
+9700000US5501500,5501500,55,,,1500,447721275,7090119,Boscobel Area School District,Boscobel Area School District,5850
+9700000US5501560,5501560,55,,,1560,324197549,533967,Bowler School District,Bowler School District,2364
+9700000US5501590,5501590,55,,,1590,415345756,2058178,Boyceville Community School District,Boyceville Community School District,4635
+9700000US5501680,5501680,55,,,1680,157897711,2048115,Brillion School District,Brillion School District,5727
+9700000US5501740,5501740,55,,,1740,261782870,1748847,Brodhead School District,Brodhead School District,6277
+9700000US5501770,5501770,55,,,1770,82892260,1070577,Elmbrook School District,Elmbrook School District,48593
+9700000US5501800,5501800,55,,,1800,11383915,0,Brown Deer School District,Brown Deer School District,12507
+9700000US5501830,5501830,55,,,1830,688352960,14550840,Bruce School District,Bruce School District,3575
+9700000US5501890,5501890,55,,,1890,252855275,6699387,Burlington Area School District,Burlington Area School District,23654
+9700000US5501920,5501920,55,,,1920,600156689,5003306,Butternut School District,Butternut School District,1151
+9700000US5502040,5502040,55,,,2040,388594591,2004927,Cadott Community School District,Cadott Community School District,5311
+9700000US5502070,5502070,55,,,2070,217180593,976119,Cambria-Friesland School District,Cambria-Friesland School District,2416
+9700000US5502100,5502100,55,,,2100,165369674,4630705,Cambridge School District,Cambridge School District,6138
+9700000US5502130,5502130,55,,,2130,174775861,2915611,Cameron School District,Cameron School District,4941
+9700000US5502160,5502160,55,,,2160,458103336,8269900,Campbellsport School District,Campbellsport School District,10270
+9700000US5502340,5502340,55,,,2340,307625468,240376,Cashton School District,Cashton School District,4124
+9700000US5502400,5502400,55,,,2400,242957273,19147140,Cassville School District,Cassville School District,1810
+9700000US5502430,5502430,55,,,2430,99046928,405964,Cedar Grove-Belgium Area School District,Cedar Grove-Belgium Area School District,6085
+9700000US5502460,5502460,55,,,2460,87476696,567063,Cedarburg School District,Cedarburg School District,21159
+9700000US5502520,5502520,55,,,2520,264666116,1973935,Chilton School District,Chilton School District,7213
+9700000US5502550,5502550,55,,,2550,553933012,34314278,Chippewa Falls Area School District,Chippewa Falls Area School District,35634
+9700000US5502580,5502580,55,,,2580,147567195,2238873,Clayton School District,Clayton School District,1802
+9700000US5502610,5502610,55,,,2610,277707372,1138572,Clear Lake School District,Clear Lake School District,3449
+9700000US5502640,5502640,55,,,2640,288000069,678622,Clinton Community School District,Clinton Community School District,5842
+9700000US5502670,5502670,55,,,2670,415034479,4931730,Clintonville School District,Clintonville School District,9629
+9700000US5502700,5502700,55,,,2700,408857444,46215295,Cochrane-Fountain City School District,Cochrane-Fountain City School District,4537
+9700000US5502730,5502730,55,,,2730,426539287,864487,Colby School District,Colby School District,7148
+9700000US5502760,5502760,55,,,2760,484914317,9240678,Coleman School District,Coleman School District,4914
+9700000US5502790,5502790,55,,,2790,470393370,4380896,Colfax School District,Colfax School District,4749
+9700000US5502820,5502820,55,,,2820,344665964,1734645,Columbus School District,Columbus School District,8601
+9700000US5502880,5502880,55,,,2880,255438894,6506374,Cornell School District,Cornell School District,2824
+9700000US5502910,5502910,55,,,2910,1325372187,56880211,Crandon School District,Crandon School District,5731
+9700000US5502970,5502970,55,,,2970,709695045,30632271,Crivitz School District,Crivitz School District,6552
+9700000US5503030,5503030,55,,,3030,204731861,258432,Cuba City School District,Cuba City School District,4926
+9700000US5503060,5503060,55,,,3060,12364566,0,Cudahy School District,Cudahy School District,18204
+9700000US5503090,5503090,55,,,3090,465774483,21999842,Cumberland School District,Cumberland School District,6083
+9700000US5503150,5503150,55,,,3150,414372182,1873696,Darlington Community School District,Darlington Community School District,5069
+9700000US5503180,5503180,55,,,3180,234823567,1710561,DeForest Area School District,DeForest Area School District,24876
+9700000US5503210,5503210,55,,,3210,165059435,2760433,De Pere Unified School District,De Pere Unified School District,24571
+9700000US5503240,5503240,55,,,3240,417289072,80362426,De Soto Area School District,De Soto Area School District,4450
+9700000US5503270,5503270,55,,,3270,104967950,393297,Deerfield Community School District,Deerfield Community School District,4442
+9700000US5503510,5503510,55,,,3510,204834795,11967165,Kettle Moraine School District,Kettle Moraine School District,23737
+9700000US5503640,5503640,55,,,3640,248402651,8205021,Delavan-Darien School District,Delavan-Darien School District,16726
+9700000US5503660,5503660,55,,,3660,363654783,3400499,Denmark School District,Denmark School District,8822
+9700000US5503690,5503690,55,,,3690,495014137,1001173,Dodgeville School District,Dodgeville School District,8386
+9700000US5503810,5503810,55,,,3810,1677597880,71114353,Drummond Area School District,Drummond Area School District,4231
+9700000US5503840,5503840,55,,,3840,747288977,18838544,Durand School District,Durand School District,7339
+9700000US5503860,5503860,55,,,3860,1064593728,163380420,Northland Pines School District,Northland Pines School District,12168
+9700000US5504020,5504020,55,,,4020,231650221,6576390,East Troy Community School District,East Troy Community School District,12242
+9700000US5504050,5504050,55,,,4050,497545154,10069261,Eau Claire Area School District,Eau Claire Area School District,86199
+9700000US5504080,5504080,55,,,4080,211030204,35177,Edgar School District,Edgar School District,3621
+9700000US5504110,5504110,55,,,4110,219381913,8601701,Edgerton School District,Edgerton School District,12681
+9700000US5504170,5504170,55,,,4170,788196061,46866903,Elcho School District,Elcho School District,3224
+9700000US5504200,5504200,55,,,4200,322669367,584351,Eleva-Strum School District,Eleva-Strum School District,3786
+9700000US5504230,5504230,55,,,4230,221889916,2854465,Elk Mound Area School District,Elk Mound Area School District,5193
+9700000US5504260,5504260,55,,,4260,146136030,5118321,Elkhart Lake-Glenbeulah School District,Elkhart Lake-Glenbeulah School District,3722
+9700000US5504290,5504290,55,,,4290,220142196,4801962,Elkhorn Area School District,Elkhorn Area School District,17950
+9700000US5504320,5504320,55,,,4320,558858995,36591659,Ellsworth Community School District,Ellsworth Community School District,11243
+9700000US5504350,5504350,55,,,4350,245512349,651992,Elmwood School District,Elmwood School District,1989
+9700000US5504380,5504380,55,,,4380,290797546,145231,Royall School District,Royall School District,3809
+9700000US5504440,5504440,55,,,4440,258111810,794631,Evansville Community School District,Evansville Community School District,9953
+9700000US5504500,5504500,55,,,4500,273201408,1448083,Fall Creek School District,Fall Creek School District,4332
+9700000US5504530,5504530,55,,,4530,122606248,2689120,Fall River School District,Fall River School District,3085
+9700000US5504590,5504590,55,,,4590,381174084,0,Fennimore Community School District,Fennimore Community School District,5046
+9700000US5504650,5504650,55,,,4650,1264232456,24111637,Florence School District,Florence School District,4558
+9700000US5504680,5504680,55,,,4680,205788874,3626285,Fond du Lac School District,Fond du Lac School District,54632
+9700000US5504740,5504740,55,,,4740,252994735,44277635,Fort Atkinson School District,Fort Atkinson School District,18536
+9700000US5504830,5504830,55,,,4830,74610981,271953,Franklin Public School District,Franklin Public School District,29736
+9700000US5504860,5504860,55,,,4860,380243523,11446883,Frederic School District,Frederic School District,3658
+9700000US5504890,5504890,55,,,4890,161184276,2036207,Northern Ozaukee School District,Northern Ozaukee School District,5637
+9700000US5504920,5504920,55,,,4920,194775394,1558,Freedom Area School District,Freedom Area School District,9843
+9700000US5504960,5504960,55,,,4960,464827046,21393362,Galesville-Ettrick-Trempealeau School District,Galesville-Ettrick-Trempealeau School District,9337
+9700000US5504980,5504980,55,,,4980,390581008,220488,North Crawford School District,North Crawford School District,3128
+9700000US5505160,5505160,55,,,5160,148058350,598297,Germantown School District,Germantown School District,27501
+9700000US5505220,5505220,55,,,5220,351562708,835156625,Gibraltar Area School District,Gibraltar Area School District,6810
+9700000US5505250,5505250,55,,,5250,270067372,3795771,Gillett School District,Gillett School District,3945
+9700000US5505280,5505280,55,,,5280,838353113,13841742,Gilman School District,Gilman School District,3004
+9700000US5505370,5505370,55,,,5370,245432275,1708516,Gilmanton School District,Gilmanton School District,1077
+9700000US5505520,5505520,55,,,5520,293843124,867107,Glenwood City School District,Glenwood City School District,3956
+9700000US5505580,5505580,55,,,5580,406116164,6410692,Goodman-Armstrong School District,Goodman-Armstrong School District,1029
+9700000US5505610,5505610,55,,,5610,54819158,853927,Grafton School District,Grafton School District,14771
+9700000US5505640,5505640,55,,,5640,191082474,653002,Granton Area School District,Granton Area School District,2084
+9700000US5505670,5505670,55,,,5670,664159536,24342516,Grantsburg School District,Grantsburg School District,5156
+9700000US5505730,5505730,55,,,5730,345445690,171482,Black Hawk School District,Black Hawk School District,2513
+9700000US5505820,5505820,55,,,5820,239427040,3815959,Green Bay Area School District,Green Bay Area School District,140769
+9700000US5505880,5505880,55,,,5880,80109768,2102331,Green Lake School District,Green Lake School District,2732
+9700000US5505910,5505910,55,,,5910,14414516,22101,Greendale School District,Greendale School District,14854
+9700000US5505940,5505940,55,,,5940,19055705,0,Greenfield School District,Greenfield School District,29251
+9700000US5505970,5505970,55,,,5970,384527464,4424277,Greenwood School District,Greenwood School District,3341
+9700000US5506000,5506000,55,,,6000,21144698,30660,Whitnall School District,Whitnall School District,18231
+9700000US5506030,5506030,55,,,6030,96922476,1245068,Hamilton School District,Hamilton School District,28888
+9700000US5506060,5506060,55,,,6060,218875820,1345503,St. Croix Central School District,St. Croix Central School District,8364
+9700000US5506270,5506270,55,,,6270,1387203184,199584572,Hayward Community School District,Hayward Community School District,14418
+9700000US5506300,5506300,55,,,6300,148946036,6214997,Southwestern Wisconsin School District,Southwestern Wisconsin School District,3949
+9700000US5506420,5506420,55,,,6420,186789593,558155,Highland School District,Highland School District,1579
+9700000US5506450,5506450,55,,,6450,141042021,625838,Hilbert School District,Hilbert School District,3152
+9700000US5506480,5506480,55,,,6480,366257439,304323,Hillsboro School District,Hillsboro School District,4451
+9700000US5506540,5506540,55,,,6540,232524411,24271044,Holmen School District,Holmen School District,22332
+9700000US5506570,5506570,55,,,6570,133047067,5975028,Horicon School District,Horicon School District,5718
+9700000US5506600,5506600,55,,,6600,278922190,2169788,Hortonville School District,Hortonville School District,22591
+9700000US5506630,5506630,55,,,6630,138505522,425866,Howard-Suamico School District,Howard-Suamico School District,32385
+9700000US5506660,5506660,55,,,6660,133842632,717431,Howards Grove School District,Howards Grove School District,6000
+9700000US5506690,5506690,55,,,6690,170477345,14470694,Hudson School District,Hudson School District,32962
+9700000US5506750,5506750,55,,,6750,1220731686,25420026,Hurley School District,Hurley School District,4196
+9700000US5506780,5506780,55,,,6780,127509925,9285574,Hustisford School District,Hustisford School District,3228
+9700000US5506810,5506810,55,,,6810,252079324,738087,Independence School District,Independence School District,2589
+9700000US5506840,5506840,55,,,6840,338737715,6336784,Iola-Scandinavia School District,Iola-Scandinavia School District,4571
+9700000US5506870,5506870,55,,,6870,423619699,344171,Iowa-Grant School District,Iowa-Grant School District,4337
+9700000US5506960,5506960,55,,,6960,228661459,44278,Ithaca School District,Ithaca School District,1674
+9700000US5507020,5507020,55,,,7020,217165724,3623026,Janesville School District,Janesville School District,63910
+9700000US5507050,5507050,55,,,7050,272294162,3809567,Jefferson School District,Jefferson School District,13017
+9700000US5507170,5507170,55,,,7170,107898864,1555868,Johnson Creek School District,Johnson Creek School District,5049
+9700000US5507230,5507230,55,,,7230,140379962,18544,Juda School District,Juda School District,1281
+9700000US5507260,5507260,55,,,7260,215602455,2264178,Dodgeland School District,Dodgeland School District,5972
+9700000US5507290,5507290,55,,,7290,175998371,2475455,Kaukauna Area School District,Kaukauna Area School District,30318
+9700000US5507320,5507320,55,,,7320,221415732,1181448,Kenosha School District,Kenosha School District,129286
+9700000US5507380,5507380,55,,,7380,364283800,2954490,Kewaskum School District,Kewaskum School District,13784
+9700000US5507410,5507410,55,,,7410,332558557,1289466,Kewaunee School District,Kewaunee School District,6731
+9700000US5507440,5507440,55,,,7440,273445034,3310826,Kiel Area School District,Kiel Area School District,8437
+9700000US5507470,5507470,55,,,7470,33569283,942122,Kimberly Area School District,Kimberly Area School District,24292
+9700000US5507500,5507500,55,,,7500,26394819,609687,Kohler School District,Kohler School District,2333
+9700000US5507530,5507530,55,,,7530,215096520,51700628,La Crosse School District,La Crosse School District,64366
+9700000US5507560,5507560,55,,,7560,179115931,541514,La Farge School District,La Farge School District,1936
+9700000US5507590,5507590,55,,,7590,290006986,4014168,Ladysmith School District,Ladysmith School District,4963
+9700000US5507680,5507680,55,,,7680,451731225,19834373,Lake Holcombe School District,Lake Holcombe School District,2671
+9700000US5507710,5507710,55,,,7710,192550938,9115824,Lake Mills Area School District,Lake Mills Area School District,9938
+9700000US5507770,5507770,55,,,7770,372994263,28413,Lancaster Community School District,Lancaster Community School District,6358
+9700000US5507830,5507830,55,,,7830,617103134,12666529,Laona School District,Laona School District,1469
+9700000US5507860,5507860,55,,,7860,228287622,17407,Lena School District,Lena School District,2654
+9700000US5508160,5508160,55,,,8160,7005235,649063,Little Chute Area School District,Little Chute Area School District,8168
+9700000US5508190,5508190,55,,,8190,237399792,18592315,Lodi School District,Lodi School District,9729
+9700000US5508220,5508220,55,,,8220,189425119,1401768,Lomira School District,Lomira School District,6973
+9700000US5508250,5508250,55,,,8250,296217233,511047,Loyal School District,Loyal School District,3902
+9700000US5508280,5508280,55,,,8280,268538271,12417139,Luck School District,Luck School District,3456
+9700000US5508340,5508340,55,,,8340,446796346,35729,Luxemburg-Casco School District,Luxemburg-Casco School District,11435
+9700000US5508520,5508520,55,,,8520,190331976,3625549,Madison Metropolitan School District,Madison Metropolitan School District,273769
+9700000US5508550,5508550,55,,,8550,282278366,4822671,Manawa School District,Manawa School District,5147
+9700000US5508610,5508610,55,,,8610,234051339,2530152,Manitowoc School District,Manitowoc School District,40187
+9700000US5508640,5508640,55,,,8640,1132208921,23965198,Maple School District,Maple School District,8213
+9700000US5508670,5508670,55,,,8670,270168197,189427,Marathon City School District,Marathon City School District,4529
+9700000US5508700,5508700,55,,,8700,251062258,5407315,Marinette School District,Marinette School District,15559
+9700000US5508730,5508730,55,,,8730,326789850,3084900,Marion School District,Marion School District,4051
+9700000US5508760,5508760,55,,,8760,435966248,62511936,Markesan School District,Markesan School District,6497
+9700000US5508790,5508790,55,,,8790,143960364,1482097,Marshall School District,Marshall School District,5751
+9700000US5508820,5508820,55,,,8820,483033758,965693,Marshfield School District,Marshfield School District,27630
+9700000US5508850,5508850,55,,,8850,528564935,9906403,Mauston School District,Mauston School District,10052
+9700000US5508880,5508880,55,,,8880,241357744,7380045,Mayville School District,Mayville School District,7971
+9700000US5508910,5508910,55,,,8910,50463527,11991511,McFarland School District,McFarland School District,12603
+9700000US5508940,5508940,55,,,8940,901922007,3863001,Medford Area School District,Medford Area School District,13366
+9700000US5508970,5508970,55,,,8970,516297840,6654325,Mellen School District,Mellen School District,1811
+9700000US5509000,5509000,55,,,9000,498606283,4693375,Melrose-Mindoro School District,Melrose-Mindoro School District,4577
+9700000US5509030,5509030,55,,,9030,19526239,3037957,Menasha School District,Menasha School District,25087
+9700000US5509060,5509060,55,,,9060,58348341,496194,Menomonee Falls School District,Menomonee Falls School District,30443
+9700000US5509070,5509070,55,,,9070,932500335,19027327,Menominee Indian School District,Menominee Indian School District,4522
+9700000US5509090,5509090,55,,,9090,640626387,17146450,Menomonie Area School District,Menomonie Area School District,28019
+9700000US5509130,5509130,55,,,9130,122786744,1853780,Mequon-Thiensville School District,Mequon-Thiensville School District,28536
+9700000US5509150,5509150,55,,,9150,436305993,42426489,Mercer School District,Mercer School District,1649
+9700000US5509210,5509210,55,,,9210,1460954164,19263933,Merrill Area School District,Merrill Area School District,20141
+9700000US5509510,5509510,55,,,9510,202426572,1202912,Middleton-Cross Plains School District,Middleton-Cross Plains School District,43581
+9700000US5509570,5509570,55,,,9570,301173674,3065048,Milton School District,Milton School District,19992
+9700000US5509600,5509600,55,,,9600,248881378,1650320,Milwaukee School District,Milwaukee School District,577222
+9700000US5509660,5509660,55,,,9660,345854244,250893,Mineral Point School District,Mineral Point School District,4272
+9700000US5509720,5509720,55,,,9720,1021097288,63616094,Northwood School District,Northwood School District,3305
+9700000US5509750,5509750,55,,,9750,263203332,1718340,Mishicot School District,Mishicot School District,6137
+9700000US5509780,5509780,55,,,9780,481520994,1304412,Mondovi School District,Mondovi School District,5811
+9700000US5509810,5509810,55,,,9810,64763008,342687,Monona Grove School District,Monona Grove School District,18817
+9700000US5509840,5509840,55,,,9840,410752029,354779,Monroe School District,Monroe School District,15419
+9700000US5509870,5509870,55,,,9870,442001278,16078002,Montello School District,Montello School District,6580
+9700000US5509900,5509900,55,,,9900,166940144,41694,Monticello School District,Monticello School District,2548
+9700000US5509960,5509960,55,,,9960,550621614,50212687,Mosinee School District,Mosinee School District,13117
+9700000US5509990,5509990,55,,,9990,369860923,103862,Mount Horeb Area School District,Mount Horeb Area School District,13055
+9700000US5510060,5510060,55,,,10060,215182759,8669485,Mukwonago School District,Mukwonago School District,29665
+9700000US5510140,5510140,55,,,10140,493965473,13745273,Riverdale School District,Riverdale School District,4814
+9700000US5510170,5510170,55,,,10170,96418373,16027013,Muskego-Norway School District,Muskego-Norway School District,29892
+9700000US5510230,5510230,55,,,10230,553316758,59931699,Necedah Area School District,Necedah Area School District,4973
+9700000US5510320,5510320,55,,,10320,151653951,3973655,Neenah School District,Neenah School District,46801
+9700000US5510350,5510350,55,,,10350,717236401,7788972,Neillsville School District,Neillsville School District,6347
+9700000US5510380,5510380,55,,,10380,377539987,43403494,Nekoosa School District,Nekoosa School District,9030
+9700000US5510440,5510440,55,,,10440,211768247,15192678,New Auburn School District,New Auburn School District,1948
+9700000US5510470,5510470,55,,,10470,88432898,1025690,New Berlin School District,New Berlin School District,36042
+9700000US5510500,5510500,55,,,10500,206884230,3104,New Glarus School District,New Glarus School District,4895
+9700000US5510530,5510530,55,,,10530,329367695,1720460,New Holstein School District,New Holstein School District,9131
+9700000US5510560,5510560,55,,,10560,294063517,1266100,New Lisbon School District,New Lisbon School District,5217
+9700000US5510590,5510590,55,,,10590,390224082,8472356,New London School District,New London School District,16062
+9700000US5510620,5510620,55,,,10620,387350934,8104881,New Richmond School District,New Richmond School District,19776
+9700000US5510680,5510680,55,,,10680,181105329,3693052,Niagara School District,Niagara School District,2454
+9700000US5510710,5510710,55,,,10710,3191700,240579,Norris School District,Norris School District,63
+9700000US5510740,5510740,55,,,10740,72727470,458304,North Fond du Lac School District,North Fond du Lac School District,8814
+9700000US5510770,5510770,55,,,10770,402370266,439124,Norwalk-Ontario-Wilton School District,Norwalk-Ontario-Wilton School District,4369
+9700000US5510830,5510830,55,,,10830,86240439,0,Oak Creek-Franklin School District,Oak Creek-Franklin School District,41359
+9700000US5510860,5510860,55,,,10860,161693711,951606,Oakfield School District,Oakfield School District,3239
+9700000US5510890,5510890,55,,,10890,287862063,22946578,Oconomowoc Area School District,Oconomowoc Area School District,37438
+9700000US5510920,5510920,55,,,10920,255323927,1899902,Oconto School District,Oconto School District,7469
+9700000US5510950,5510950,55,,,10950,466074665,7829590,Oconto Falls School District,Oconto Falls School District,11169
+9700000US5510980,5510980,55,,,10980,235633339,7567875,Omro School District,Omro School District,8154
+9700000US5511010,5511010,55,,,11010,34618794,2029314,Onalaska School District,Onalaska School District,18137
+9700000US5511070,5511070,55,,,11070,103116862,638695,Oostburg School District,Oostburg School District,6228
+9700000US5511100,5511100,55,,,11100,220163627,1704540,Oregon School District,Oregon School District,23352
+9700000US5511130,5511130,55,,,11130,325846769,637541,Parkview School District,Parkview School District,6035
+9700000US5511160,5511160,55,,,11160,278454339,14170278,Osceola School District,Osceola School District,9646
+9700000US5511190,5511190,55,,,11190,256782069,2361748,Oshkosh Area School District,Oshkosh Area School District,80114
+9700000US5511220,5511220,55,,,11220,756133988,1955445,Osseo-Fairchild School District,Osseo-Fairchild School District,5919
+9700000US5511310,5511310,55,,,11310,405340403,3726850,Owen-Withee School District,Owen-Withee School District,4570
+9700000US5511350,5511350,55,,,11350,207114466,2285727,Palmyra-Eagle Area School District,Palmyra-Eagle Area School District,7555
+9700000US5511370,5511370,55,,,11370,230727836,7902744,Pardeeville Area School District,Pardeeville Area School District,6822
+9700000US5511550,5511550,55,,,11550,567134600,7811101,Beecher-Dunbar-Pembine School District,Beecher-Dunbar-Pembine School District,2268
+9700000US5511580,5511580,55,,,11580,203593044,35553777,Pepin Area School District,Pepin Area School District,1986
+9700000US5511610,5511610,55,,,11610,217388878,3716953,Peshtigo School District,Peshtigo School District,6284
+9700000US5511640,5511640,55,,,11640,35117045,5059189,Pewaukee School District,Pewaukee School District,18480
+9700000US5511710,5511710,55,,,11710,241668488,38312625,Phelps School District,Phelps School District,1239
+9700000US5511730,5511730,55,,,11730,1491492708,27695549,Phillips School District,Phillips School District,6047
+9700000US5511790,5511790,55,,,11790,927445786,16033326,Pittsville School District,Pittsville School District,3698
+9700000US5511820,5511820,55,,,11820,559499895,2504007,Tri-County Area School District,Tri-County Area School District,3938
+9700000US5511850,5511850,55,,,11850,378464442,27874,Platteville School District,Platteville School District,15598
+9700000US5511880,5511880,55,,,11880,212205371,665789,Plum City School District,Plum City School District,1745
+9700000US5511940,5511940,55,,,11940,320776859,2779374,Plymouth School District,Plymouth School District,17369
+9700000US5511970,5511970,55,,,11970,143745907,17721068,Port Edwards School District,Port Edwards School District,3716
+9700000US5512000,5512000,55,,,12000,78541819,261492,Port Washington-Saukville School District,Port Washington-Saukville School District,17769
+9700000US5512030,5512030,55,,,12030,751509793,2843698,South Shore School District,South Shore School District,1966
+9700000US5512060,5512060,55,,,12060,524316843,33190530,Portage Community School District,Portage Community School District,17353
+9700000US5512090,5512090,55,,,12090,166510710,37768747,Potosi School District,Potosi School District,2171
+9700000US5512120,5512120,55,,,12120,243109610,5558761,Poynette School District,Poynette School District,6781
+9700000US5512150,5512150,55,,,12150,220095952,19128815,Prairie du Chien Area School District,Prairie du Chien Area School District,8061
+9700000US5512180,5512180,55,,,12180,230158868,575113,Prairie Farm School District,Prairie Farm School District,1944
+9700000US5512210,5512210,55,,,12210,1075686221,9150555,Prentice School District,Prentice School District,2909
+9700000US5512240,5512240,55,,,12240,184033268,9659313,Prescott School District,Prescott School District,8215
+9700000US5512300,5512300,55,,,12300,226421700,7370102,Princeton School District,Princeton School District,3182
+9700000US5512330,5512330,55,,,12330,476150026,422136,Pulaski Community School District,Pulaski Community School District,23609
+9700000US5512360,5512360,55,,,12360,259542671,1705905,Racine School District,Racine School District,140198
+9700000US5512420,5512420,55,,,12420,153367879,23924885,Randolph School District,Randolph School District,3256
+9700000US5512450,5512450,55,,,12450,235419516,2072006,Random Lake School District,Random Lake School District,6058
+9700000US5512540,5512540,55,,,12540,382256424,693661,Kickapoo Area School District,Kickapoo Area School District,3240
+9700000US5512660,5512660,55,,,12660,614222652,7610962,Reedsburg School District,Reedsburg School District,17750
+9700000US5512690,5512690,55,,,12690,287664547,1928091,Reedsville School District,Reedsville School District,4716
+9700000US5512720,5512720,55,,,12720,945432429,75449028,Rhinelander School District,Rhinelander School District,21109
+9700000US5512780,5512780,55,,,12780,723727625,9190158,Rib Lake School District,Rib Lake School District,3239
+9700000US5512810,5512810,55,,,12810,577717827,35887537,Rice Lake Area School District,Rice Lake Area School District,16431
+9700000US5512960,5512960,55,,,12960,677239995,1302493,Richland School District,Richland School District,10691
+9700000US5512990,5512990,55,,,12990,194415629,3640090,Rio Community School District,Rio Community School District,3015
+9700000US5513020,5513020,55,,,13020,262014163,10081255,Ripon Area School District,Ripon Area School District,10778
+9700000US5513050,5513050,55,,,13050,369007416,2237613,River Falls School District,River Falls School District,24702
+9700000US5513100,5513100,55,,,13100,339145392,3090340,Rosendale-Brandon School District,Rosendale-Brandon School District,5475
+9700000US5513140,5513140,55,,,13140,395518928,5099832,Rosholt School District,Rosholt School District,3925
+9700000US5513170,5513170,55,,,13170,403551195,3942296,D.C. Everest Area School District,D.C. Everest Area School District,35984
+9700000US5513230,5513230,55,,,13230,372122199,14410210,St. Croix Falls School District,St. Croix Falls School District,7321
+9700000US5513260,5513260,55,,,13260,6649955,0,St. Francis School District,St. Francis School District,9161
+9700000US5513410,5513410,55,,,13410,574802431,21254955,Sauk Prairie School District,Sauk Prairie School District,16516
+9700000US5513470,5513470,55,,,13470,284544752,19669552,Seneca School District,Seneca School District,1650
+9700000US5513500,5513500,55,,,13500,301706217,378056770,Sevastopol School District,Sevastopol School District,5302
+9700000US5513530,5513530,55,,,13530,433697620,516967,Seymour Community School District,Seymour Community School District,12849
+9700000US5513620,5513620,55,,,13620,401913435,29073426,Shawano School District,Shawano School District,17217
+9700000US5513650,5513650,55,,,13650,131321420,1067623,Sheboygan Area School District,Sheboygan Area School District,62772
+9700000US5513680,5513680,55,,,13680,144942117,1416262,Sheboygan Falls School District,Sheboygan Falls School District,11924
+9700000US5513710,5513710,55,,,13710,381042324,23138173,Shell Lake School District,Shell Lake School District,3689
+9700000US5513770,5513770,55,,,13770,275243775,6182271,Shiocton School District,Shiocton School District,4245
+9700000US5513800,5513800,55,,,13800,4117148,0,Shorewood School District,Shorewood School District,13859
+9700000US5513830,5513830,55,,,13830,249775168,0,Shullsburg School District,Shullsburg School District,2036
+9700000US5513890,5513890,55,,,13890,261459499,23960738,Siren School District,Siren School District,3239
+9700000US5513950,5513950,55,,,13950,201494474,2994952,Slinger School District,Slinger School District,16628
+9700000US5513980,5513980,55,,,13980,402492336,8697329,Solon Springs School District,Solon Springs School District,2281
+9700000US5514010,5514010,55,,,14010,149562904,3932750,Somerset School District,Somerset School District,8562
+9700000US5514040,5514040,55,,,14040,12505971,21035,South Milwaukee School District,South Milwaukee School District,20795
+9700000US5514130,5514130,55,,,14130,508298141,356053734,Southern Door County School District,Southern Door County School District,8147
+9700000US5514160,5514160,55,,,14160,734695205,1069113,Sparta Area School District,Sparta Area School District,18395
+9700000US5514190,5514190,55,,,14190,209558266,713192,Spencer School District,Spencer School District,4407
+9700000US5514220,5514220,55,,,14220,1271284280,81178290,Spooner Area School District,Spooner Area School District,10732
+9700000US5514250,5514250,55,,,14250,748627562,19914685,River Valley School District,River Valley School District,9449
+9700000US5514340,5514340,55,,,14340,284658707,2064031,Spring Valley School District,Spring Valley School District,4251
+9700000US5514430,5514430,55,,,14430,477002822,4229026,Stanley-Boyd Area School District,Stanley-Boyd Area School District,7805
+9700000US5514490,5514490,55,,,14490,951553082,43977625,Stevens Point Area School District,Stevens Point Area School District,56883
+9700000US5514520,5514520,55,,,14520,70896328,141779,Stockbridge School District,Stockbridge School District,1750
+9700000US5514550,5514550,55,,,14550,276731805,16022889,Stoughton Area School District,Stoughton Area School District,21239
+9700000US5514580,5514580,55,,,14580,294547413,5316256,Stratford School District,Stratford School District,5105
+9700000US5514610,5514610,55,,,14610,20712176,4273738,Sturgeon Bay School District,Sturgeon Bay School District,9030
+9700000US5514640,5514640,55,,,14640,203063167,764133,Sun Prairie Area School District,Sun Prairie Area School District,50734
+9700000US5514670,5514670,55,,,14670,1016123917,33509359,Superior School District,Superior School District,33546
+9700000US5514700,5514700,55,,,14700,771430559,14266351,Suring School District,Suring School District,4184
+9700000US5514820,5514820,55,,,14820,400263899,1616080,Thorp School District,Thorp School District,4671
+9700000US5514850,5514850,55,,,14850,694159459,83858329,Three Lakes School District,Three Lakes School District,4593
+9700000US5514880,5514880,55,,,14880,250628033,270453,Tigerton School District,Tigerton School District,1867
+9700000US5514910,5514910,55,,,14910,1182659757,32446106,Tomah Area School District,Tomah Area School District,20457
+9700000US5514940,5514940,55,,,14940,1021985428,80084779,Tomahawk School District,Tomahawk School District,10286
+9700000US5514970,5514970,55,,,14970,1045459066,12586165,Flambeau School District,Flambeau School District,4241
+9700000US5515060,5515060,55,,,15060,276792473,14285784,Turtle Lake School District,Turtle Lake School District,3326
+9700000US5515120,5515120,55,,,15120,73538846,2135015,Two Rivers School District,Two Rivers School District,12462
+9700000US5515210,5515210,55,,,15210,297655165,3914590,Valders Area School District,Valders Area School District,6817
+9700000US5515330,5515330,55,,,15330,139167750,676180,Verona Area School District,Verona Area School District,29298
+9700000US5515360,5515360,55,,,15360,499185933,892781,Viroqua Area School District,Viroqua Area School District,8929
+9700000US5515390,5515390,55,,,15390,883898685,23829648,Wabeno Area School District,Wabeno Area School District,3628
+9700000US5515540,5515540,55,,,15540,480961776,924423,Washburn School District,Washburn School District,3862
+9700000US5515570,5515570,55,,,15570,65994275,239932699,Washington School District,Washington School District,777
+9700000US5515720,5515720,55,,,15720,205589396,2835779,Waterloo School District,Waterloo School District,5541
+9700000US5515750,5515750,55,,,15750,428545439,5594207,Watertown School District,Watertown School District,29827
+9700000US5515780,5515780,55,,,15780,180611124,2434837,Waukesha School District,Waukesha School District,94267
+9700000US5515810,5515810,55,,,15810,141857007,3541922,Waunakee Community School District,Waunakee Community School District,21946
+9700000US5515840,5515840,55,,,15840,403745709,9231332,Waupaca School District,Waupaca School District,15829
+9700000US5515870,5515870,55,,,15870,434813769,23442504,Waupun School District,Waupun School District,19112
+9700000US5515900,5515900,55,,,15900,660017974,9106909,Wausau School District,Wausau School District,55169
+9700000US5515930,5515930,55,,,15930,1074212523,17094251,Wausaukee School District,Wausaukee School District,4114
+9700000US5515960,5515960,55,,,15960,457225650,7935440,Wautoma Area School District,Wautoma Area School District,11209
+9700000US5515990,5515990,55,,,15990,34258850,9422,Wauwatosa School District,Wauwatosa School District,48387
+9700000US5516020,5516020,55,,,16020,241737408,5592941,Wauzeka-Steuben School District,Wauzeka-Steuben School District,1447
+9700000US5516230,5516230,55,,,16230,1189292235,76341195,Webster School District,Webster School District,6135
+9700000US5516260,5516260,55,,,16260,35851632,61582,West Allis School District,West Allis School District,67992
+9700000US5516290,5516290,55,,,16290,256622764,4098049,West Bend School District,West Bend School District,52250
+9700000US5516320,5516320,55,,,16320,120431209,2858636,West De Pere School District,West De Pere School District,25068
+9700000US5516350,5516350,55,,,16350,245127932,2493573,West Salem School District,West Salem School District,10362
+9700000US5516410,5516410,55,,,16410,441144121,404935,Westby Area School District,Westby Area School District,7911
+9700000US5516440,5516440,55,,,16440,716931969,7666296,Westfield School District,Westfield School District,9049
+9700000US5516470,5516470,55,,,16470,257627303,454866,Weston School District,Weston School District,2482
+9700000US5516500,5516500,55,,,16500,357581672,44798184,Weyauwega-Fremont School District,Weyauwega-Fremont School District,6969
+9700000US5516590,5516590,55,,,16590,487366890,7998659,White Lake School District,White Lake School District,1532
+9700000US5516620,5516620,55,,,16620,5478616,0,Whitefish Bay School District,Whitefish Bay School District,14954
+9700000US5516650,5516650,55,,,16650,356947042,137684,Whitehall School District,Whitehall School District,4976
+9700000US5516680,5516680,55,,,16680,349625513,6459244,Whitewater School District,Whitewater School District,20444
+9700000US5516710,5516710,55,,,16710,369689897,5944698,Wild Rose School District,Wild Rose School District,5025
+9700000US5516740,5516740,55,,,16740,22703285,0,Williams Bay School District,Williams Bay School District,4003
+9700000US5516830,5516830,55,,,16830,263160631,45165197,Winneconne Community School District,Winneconne Community School District,9916
+9700000US5516860,5516860,55,,,16860,1673715507,27515574,Winter School District,Winter School District,3132
+9700000US5517040,5517040,55,,,17040,467179618,19841682,Wisconsin Dells School District,Wisconsin Dells School District,13443
+9700000US5517070,5517070,55,,,17070,599244748,9952579,Wisconsin Rapids School District,Wisconsin Rapids School District,35185
+9700000US5517100,5517100,55,,,17100,661820274,5354504,Wittenberg-Birnamwood School District,Wittenberg-Birnamwood School District,7494
+9700000US5517130,5517130,55,,,17130,245222656,1469088,Wonewoc-Union Center School District,Wonewoc-Union Center School District,3079
+9700000US5517190,5517190,55,,,17190,206664908,1960802,Wrightstown Community School District,Wrightstown Community School District,7558
+9700000US5599997,5599997,55,,,99997,143423873,23147192688,School District Not Defined,School District Not Defined,3
+9700000US5599999,5599999,55,,,99999,3593567423,372310966,Wisconsin,Remainder of Wisconsin,222465
